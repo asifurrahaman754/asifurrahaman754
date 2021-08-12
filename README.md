@@ -1,6 +1,6 @@
 ### Hey, Asifur here 👋
 
-I am a Web Application Developer based in 🇧🇩 . I love to work with Frontend and exploring Backend technologies 🧑‍💻. Javascript <img width="20px" src="https://user-images.githubusercontent.com/66458004/129150468-a0a321ce-c2f2-4e78-bfee-366f76687f49.png" /> is my best friend and React <img width="20px" src="https://reactjs.org/favicon.ico"> is my love
+I am a Web Application Developer based in Bangladesh. I love to work with Frontend and exploring Backend technologies 🧑‍💻. Javascript <img width="20px" src="https://user-images.githubusercontent.com/66458004/129150468-a0a321ce-c2f2-4e78-bfee-366f76687f49.png" /> is my best friend and React <img width="20px" src="https://reactjs.org/favicon.ico"> is my love
 
 ---
 
