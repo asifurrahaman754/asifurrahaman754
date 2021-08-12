@@ -26,13 +26,13 @@ I am a Web Application Developer who loves to work with Frontend and who is expl
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 <img src="http://img.shields.io/badge/-Heroku-430098?style=flat&logo=heroku&logoColor=white">
 
+
 ---
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=asifurrahaman754&show_icons=true&hide_border=true)
 
 ---
 
-~
 ### Spotify Playing 🎧
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
@@ -51,7 +51,7 @@ Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
 
-:star: From [asifurrahaman754](https://github.com/asifurrahaman754)
+:star: From [asifurrahaman754](https://github.com/asifurrahaman754?tab=repositories)
 
 [linkedin]: https://linkedin.com/in/asifur-rahaman-8b15901a2
 [facebook]: https://facebook.com/asif.asifurrahaman.77/
