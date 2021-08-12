@@ -1,7 +1,7 @@
 ### Hey, Asifur here 👋
 
 https://reactjs.org/favicon.ico
-I am a Web Application Developer who loves to work with Frontend and who is exploring Backend technologies 🧑‍💻. Javascript<img src="https://user-images.githubusercontent.com/66458004/129150468-a0a321ce-c2f2-4e78-bfee-366f76687f49.png" /> is my friend and React<img src="https://reactjs.org/favicon.ico"> is my love
+I am a Web Application Developer who loves to work with Frontend and who is exploring Backend technologies 🧑‍💻. Javascript<img width="10px" src="https://user-images.githubusercontent.com/66458004/129150468-a0a321ce-c2f2-4e78-bfee-366f76687f49.png" /> is my friend and React<img src="https://reactjs.org/favicon.ico"> is my love
 
 - 🌱 I’m currently learning Firebase<img src="https://www.gstatic.com/devrel-devsite/prod/v0089c83aa8227c3439bf2708c0795dd13db533711d44eb626e640152d9fdf05e/firebase/images/favicon.png" />
 - 👯 I’m looking to collaborate with other new developers
