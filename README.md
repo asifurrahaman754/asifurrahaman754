@@ -47,7 +47,7 @@ I am a Web Application Developer based in Bangladesh. I love to work with Fronte
 
 ---
 
-Let's connect 👨‍💻 and forge the future together.😁✌
+Let's connect 👨‍💻 
 
 **Check the Repositories and don't forget to give a star.** 👇
 
