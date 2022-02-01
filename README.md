@@ -6,7 +6,7 @@ I am a Web Application Developer based in Bangladesh. I love to work with Fronte
 
 - 🌱 I’m currently learning Firebase <img width="30px" src="https://www.gstatic.com/devrel-devsite/prod/v0089c83aa8227c3439bf2708c0795dd13db533711d44eb626e640152d9fdf05e/firebase/images/favicon.png" />
 - 👯 I’m looking to collaborate with other new developers
-- 🥅 2021 Goals: Contribute more to Open Source projects
+- 🥅 2022 Goals: Contribute more to Open Source projects
 - ⚡ Fun fact: I love exploring web and traveling <br/>
 💬 You can Ask me about  Frontend Development or any Front-Tech-related stuff.
 
