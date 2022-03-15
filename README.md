@@ -1,19 +1,21 @@
-### Hey, Asifur here 👋
+### Hey, [Asifur](https://asifur754.netlify.app) here 👋
 
-I am a Web Application Developer based in Bangladesh. I love to work with Frontend and exploring Backend technologies 🧑‍💻.
+I am a Frontend Developer based in Bangladesh. I love to work with Frontend and currently i am exploring Backend technologies 🧑‍💻.
 
 ---
 
-- 🌱 I’m currently learning Firebase <img width="30px" src="https://www.gstatic.com/devrel-devsite/prod/v0089c83aa8227c3439bf2708c0795dd13db533711d44eb626e640152d9fdf05e/firebase/images/favicon.png" />
+- 💻Find my work [here](https://asifur754.netlify.app/projects)
+- 🌱 I’m currently learning MongoDb <img src="https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=ffffff">
 - 👯 I’m looking to collaborate with other new developers
-- 🥅 2022 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love exploring web and traveling <br/>
+- 🥅 2022 Goals: Contribute more to Open Source projects and build fullstack projects
+- ⚡ I share insights about Web Development on [Twitter](https://twitter.com/asifur754)
+- Hire [me](mailto:asifurrahaman754@gmail.com) for remote work & internships :) <br/> <br/>
 💬 You can Ask me about  Frontend Development or any Front-Tech-related stuff.
 
 ---
 
 
-### Tech & Tools Preference
+### Tech & Tools Preference 🛠
 
 <img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white">
 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
@@ -38,7 +40,7 @@ I am a Web Application Developer based in Bangladesh. I love to work with Fronte
 ### You can find me in the web 🌍
 [<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="asifur | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/facebook.svg" />][facebook]
+[<img align="left" alt="asifur | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/twitter.svg" />][twitter]
 
 <br />
 
@@ -51,5 +53,5 @@ Let's connect 👨‍💻
 :star: From [asifurrahaman754](https://github.com/asifurrahaman754?tab=repositories)
 
 [linkedin]: https://linkedin.com/in/asifur-rahaman-8b15901a2
-[facebook]: https://facebook.com/asif.asifurrahaman.77/
+[twitter]: https://twitter.com/asifur754
 [medium]: https://asifurrahaman754.medium.com/
