@@ -1,6 +1,6 @@
 ### Hey, [Asifur](https://asifur754.netlify.app) here 👋
 
-A passionate Frontend Developer based in Bangladesh. I love to work with Frontend and currently i am exploring Backend technologies 🧑‍💻.
+I'm a Frontend Developer who is passionate about contributing to open-source and building beautifull web apps. Some technologies I enjoy working with include ReactJS, JavaScript and GraphQL(recently started). I believe i can add value to the community 🧑‍💻.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asifurrahaman754" alt="asifurrahaman754" /></a> </p>
 
@@ -36,10 +36,21 @@ A passionate Frontend Developer based in Bangladesh. I love to work with Fronten
  <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>
 
 
----
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asifurrahaman754&show_icons=true&locale=en&layout=compact" alt="asifurrahaman754" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asifurrahaman754&show_icons=true&locale=en" alt="asifurrahaman754" /></p>
+
+
+---
+
+
+
+### ✨ Recent projects that I have contributed to or been part of
+
+- Front End Interview Handbook ([Github](https://github.com/yangshun/front-end-interview-handbook) | [Website](https://www.frontendinterviewhandbook.com/)) 
+- Filmpire ([Github](https://github.com/Adrian333Dev/filmpire) | [Website](https://filmpire754.netlify.app/))
+- template ([Github](https://github.com/toidicode/template) | [Website](https://github.toidicode.com//)) 
+
 
 ---
 
@@ -49,8 +60,8 @@ A passionate Frontend Developer based in Bangladesh. I love to work with Fronten
 [<img align="left" alt="asifur | facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.6.1/icons/twitter.svg" />][twitter]
 
 <br />
-
----
+<br />
+<br />
 
 Let's connect 👨‍💻 
 
