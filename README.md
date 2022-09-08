@@ -4,7 +4,7 @@ I'm a Frontend Developer who is passionate about contributing to open-source and
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=asifurrahaman754" alt="asifurrahaman754" /></a> </p>
 
----
+![](https://i.imgur.com/waxVImv.png)
 
 - 💻Find my work [here](https://asifur754.netlify.app/projects)
 - 🌱 I’m currently learning <img src="https://img.shields.io/badge/-TypeScript-2F74C0?style=flat&logo=typescript&logoColor=ffffff">
@@ -14,7 +14,7 @@ I'm a Frontend Developer who is passionate about contributing to open-source and
 - Hire [me](mailto:asifurrahaman754@gmail.com) for remote work & internships :) <br/> <br/>
 💬 You can Ask me about  Frontend Development or any Front-Tech-related stuff.
 
----
+![](https://i.imgur.com/waxVImv.png)
 
 
 ### Tech & Tools Preference 🛠
@@ -42,7 +42,7 @@ I'm a Frontend Developer who is passionate about contributing to open-source and
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asifurrahaman754&show_icons=true&locale=en" alt="asifurrahaman754" /></p>
 
 
----
+![](https://i.imgur.com/waxVImv.png)
 
 
 
@@ -53,7 +53,7 @@ I'm a Frontend Developer who is passionate about contributing to open-source and
 - template ([Github](https://github.com/toidicode/template) | [Website](https://github.toidicode.com//)) 
 
 
----
+![](https://i.imgur.com/waxVImv.png)
 
 ### You can find me in the web 🌍
 [<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
