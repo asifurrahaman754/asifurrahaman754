@@ -49,7 +49,7 @@ I'm a Frontend Developer who is passionate about contributing to open-source and
 ### ✨ Recent projects that I have contributed to or been part of
 
 - Front End Interview Handbook ([Github](https://github.com/yangshun/front-end-interview-handbook) | [Website](https://www.frontendinterviewhandbook.com/)) 
-- Filmpire ([Github](https://github.com/Adrian333Dev/filmpire) | [Website](https://filmpire754.netlify.app/))
+- Community Classroom ([Github](https://github.com/commclassroom/roadmaps) | [Website](https://www.commclassroom.org/roadmaps))
 - template ([Github](https://github.com/toidicode/template) | [Website](https://github.toidicode.com//)) 
 
 
