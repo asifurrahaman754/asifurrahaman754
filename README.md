@@ -70,6 +70,6 @@ Let's connect 👨‍💻
 
 :star: From [asifurrahaman754](https://github.com/asifurrahaman754?tab=repositories)
 
-[linkedin]: https://linkedin.com/in/asifur-rahaman-8b15901a2
+[linkedin]: https://www.linkedin.com/in/asifurrahaman/
 [twitter]: https://twitter.com/asifur754
 [medium]: https://asifurrahaman754.medium.com/
