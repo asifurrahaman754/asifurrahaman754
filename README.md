@@ -50,7 +50,7 @@ I'm a Frontend Developer who is passionate about contributing to open-source and
 
 - Front End Interview Handbook ([Github](https://github.com/yangshun/front-end-interview-handbook) | [Website](https://www.frontendinterviewhandbook.com/)) 
 - Community Classroom ([Github](https://github.com/commclassroom/roadmaps) | [Website](https://www.commclassroom.org/roadmaps))
-- template ([Github](https://github.com/toidicode/template) | [Website](https://github.toidicode.com//)) 
+- MDN Web ([Github](https://github.com/mdn) | [Website](https://developer.mozilla.org/en-US/)) 
 
 
 ![](https://i.imgur.com/waxVImv.png)
