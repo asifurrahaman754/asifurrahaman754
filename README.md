@@ -38,10 +38,6 @@ I'm a Frontend Developer who is passionate about contributing to open-source and
 <br />
 <br />
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=asifurrahaman754&show_icons=true&locale=en&layout=compact" alt="asifurrahaman754" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asifurrahaman754&show_icons=true&locale=en" alt="asifurrahaman754" /></p>
-
-
 ![](https://i.imgur.com/waxVImv.png)
 
 
