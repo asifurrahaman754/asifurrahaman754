@@ -7,11 +7,9 @@ I'm a Frontend Developer who is passionate about contributing to open-source and
 ![](https://i.imgur.com/waxVImv.png)
 
 - 💻Find my work [here](https://asifur754.netlify.app/projects)
-- 🌱 I’m currently learning <img src="https://img.shields.io/badge/-TypeScript-2F74C0?style=flat&logo=typescript&logoColor=ffffff">
 - 👯 I’m looking to collaborate with other new developers
-- 🥅 2022 Goals: Contribute more to Open Source projects and build fullstack projects
+- 🥅 2023 Goals: Contribute more to Open Source projects and build fullstack projects
 - ⚡ I share insights about Web Development on [Twitter](https://twitter.com/asifur754)
-- Hire [me](mailto:asifurrahaman754@gmail.com) for remote work & internships :) <br/> <br/>
 💬 You can Ask me about  Frontend Development or any Front-Tech-related stuff.
 
 ![](https://i.imgur.com/waxVImv.png)
@@ -37,8 +35,6 @@ I'm a Frontend Developer who is passionate about contributing to open-source and
 
 <br />
 <br />
-
-![](https://i.imgur.com/waxVImv.png)
 
 
 
