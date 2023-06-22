@@ -30,7 +30,6 @@ I'm a Frontend Developer who is passionate about contributing to open-source and
 ### ✨ Recent projects that I have contributed to or been part of
 
 - Front End Interview Handbook ([Github](https://github.com/yangshun/front-end-interview-handbook) | [Website](https://www.frontendinterviewhandbook.com/)) 
-- Community Classroom ([Github](https://github.com/commclassroom/roadmaps) | [Website](https://www.commclassroom.org/roadmaps))
 - MDN Web ([Github](https://github.com/mdn) | [Website](https://developer.mozilla.org/en-US/)) 
 
 
