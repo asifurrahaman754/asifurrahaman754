@@ -29,6 +29,7 @@ I'm a Frontend Developer who is passionate about contributing to open-source and
 
 ### ✨ Recent projects that I have contributed to or been part of
 
+- Paperturn Dashboard ([Website](https://www.paperturn.com/))
 - Front End Interview Handbook ([Github](https://github.com/yangshun/front-end-interview-handbook) | [Website](https://www.frontendinterviewhandbook.com/)) 
 - MDN Web ([Github](https://github.com/mdn) | [Website](https://developer.mozilla.org/en-US/)) 
 
