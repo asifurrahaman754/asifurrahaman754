@@ -29,9 +29,8 @@ I'm a Frontend Developer who is passionate about contributing to open-source and
 ### ✨ Recent projects that I have contributed to or been part of
 
 - Paperturn Dashboard ([Website](https://www.paperturn.com/))
-- Front End Interview Handbook ([Github](https://github.com/yangshun/front-end-interview-handbook) | [Website](https://www.frontendinterviewhandbook.com/)) 
 - Improve Youtube ([Github](https://github.com/code-charity/youtube) | [Website](https://chrome.google.com/webstore/detail/improve-youtube-%F0%9F%8E%A7-for-yo/bnomihfieiccainjcjblhegjgglakjdd)) 
-
+- Front End Interview Handbook ([Github](https://github.com/yangshun/front-end-interview-handbook) | [Website](https://www.frontendinterviewhandbook.com/)) 
 
 ![](https://i.imgur.com/waxVImv.png)
 
