@@ -1,6 +1,6 @@
 ### Hey, [Asifur](https://asifur754.netlify.app) here 👋
 
-I'm a Frontend Developer who is passionate about contributing to open-source and building beautifull web apps. Some technologies I enjoy working with include ReactJS, JavaScript and GraphQL(recently started). I believe i can add value to the community 🧑‍💻.
+I'm a front-end developer who is passionate about contributing to open-source and building interactive web apps. Some technologies I enjoy working with include React.js and TypeScript. I believe I can add value to the community 🧑‍💻.
 
 [![@asifurrahaman7545's Holopin badges 2023](https://holopin.me/asifurrahaman7545)](https://holopin.io/@asifurrahaman7545)
 <br />
