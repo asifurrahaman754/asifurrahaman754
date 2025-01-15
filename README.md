@@ -32,9 +32,8 @@ I'm a front-end developer who is passionate about contributing to open-source an
 - Improve Youtube ([Github](https://github.com/code-charity/youtube/pulls?q=is%3Apr+is%3Aclosed+author%3Aasifurrahaman754) | [Website](https://chrome.google.com/webstore/detail/improve-youtube-%F0%9F%8E%A7-for-yo/bnomihfieiccainjcjblhegjgglakjdd)) 
 - Front End Interview Handbook ([Github](https://github.com/yangshun/front-end-interview-handbook) | [Website](https://www.frontendinterviewhandbook.com/)) 
 
-![](https://i.imgur.com/waxVImv.png)
 
-### You can find me in the web 🌍
+### web 🌍
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 <br />
