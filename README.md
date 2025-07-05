@@ -26,6 +26,9 @@ Node.js, PHP, MySQL, Docker
 **DevOps / Tools:**  
 Git, GitHub Actions, Slack API, Intercom, June
 
+## 🚧 Currently exploring
+- Cloud infrastructure and services with AWS
+
 ## 🚧 Ongoing Projects
 
 ### 📌 [ErrorSnap](https://errorsnap.netlify.app/)
